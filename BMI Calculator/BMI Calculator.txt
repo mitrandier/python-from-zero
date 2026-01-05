@@ -1,0 +1,8 @@
+This project is a simple Python program that calculates the Body Mass Index (BMI) based on user input.
+
+The user provides their height in centimeters and weight in kilograms.
+The program converts the height to meters, squares it, and then calculates BMI using the standard formula.
+
+The calculated BMI value is printed as the output.
+
+This project is suitable for beginners who are learning basic Python concepts such as input handling, type conversion, and arithmetic operations.
