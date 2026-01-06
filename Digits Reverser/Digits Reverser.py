@@ -1,5 +1,6 @@
 a = int(input())
 print(a)
+
 b = a%10
 print(b)
 
@@ -15,3 +16,4 @@ print(e)
 b ,c ,d ,e = str(b) ,str(c) ,str(d) ,str(e)
 
 print(e+b+c+d)
+
