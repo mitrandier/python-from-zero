@@ -1,0 +1,6 @@
+a = input("jfjfjfj:").split(" ")
+b= input("fffffff").split(" ")
+c= input("vvvvvvvv").split(" ")
+print(a)
+print(b)
+print(c)
